@@ -1,0 +1,9 @@
+SoundFile==0.10.3.post1
+numpy==1.18.5
+librosa==0.8.0
+lxml==4.5.1
+wavinfo==1.5
+tensorflow==2.3.2
+keras2onnx==1.7.0
+onnxruntime==1.7.0
+sounddevice==0.4.1
