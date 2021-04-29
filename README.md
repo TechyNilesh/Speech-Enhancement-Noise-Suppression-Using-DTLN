@@ -11,8 +11,8 @@
 ## Sample
 I am showing you sample file befor noise reduction and after noise reduction.
 
-Normal Audio With Noises: [Noisy Audio Input](https://github.com/TechyNilesh/Speech-Enhancement-Noise-Suppression-Using-DTLN/blob/main/data_test/input/noisy_input.wav "Noisy Audio Input")
-After Cleanig Noise: [Clean Audio Output](https://github.com/TechyNilesh/Speech-Enhancement-Noise-Suppression-Using-DTLN/blob/main/data_test/output/noisy_input.wav "Clean Audio Output")
+- Normal Audio With Noises: [Noisy Audio Input](https://github.com/TechyNilesh/Speech-Enhancement-Noise-Suppression-Using-DTLN/blob/main/data_test/input/noisy_input.wav "Noisy Audio Input")
+- After Cleanig Noise: [Clean Audio Output](https://github.com/TechyNilesh/Speech-Enhancement-Noise-Suppression-Using-DTLN/blob/main/data_test/output/noisy_input.wav "Clean Audio Output")
 
 ## Refrences
 - Paper : [Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2631.pdf "Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression")
